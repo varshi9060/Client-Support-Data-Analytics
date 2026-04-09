@@ -8,6 +8,7 @@ MySQL: Database management and advanced querying.
 Power BI: Interactive dashboarding and KPI visualization.
 
 🚀 Project 1: Operational Performance Dashboard (Power BI)
+ 
 I transformed scattered manual reports into an interactive dashboard to track real-time status.
 What I did:Built a dashboard tracking Response Rates, Interview counts, and Approval statuses.
 Key Insight: Identified that the 'Industry Outlook' magazine exceeded its response target by 124%.
