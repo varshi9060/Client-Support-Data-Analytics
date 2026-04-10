@@ -19,3 +19,9 @@ Efficiency: Automated the reporting workflow, saving approximately 5-10 hours of
 🖼️ Dashboard Preview
 
 ![Power BI](https://github.com/user-attachments/assets/7f3069ed-7cae-4556-a800-37e7ea672776)
+
+![Untitled design](https://github.com/user-attachments/assets/de7656b4-05a5-43f9-a554-e97307fce9b9)
+
+
+
+
