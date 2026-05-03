@@ -20,10 +20,4 @@ Interactive Visuals: Used Gauge Charts for target tracking and Slicers for magaz
 
 🔍 Transparency: Real-time visibility into "Draft Pending" vs "PDF Approved" status led to faster client follow-ups and better coordination.
 
-<img width="1152" height="648" alt="dashboard_preview" src="https://github.com/user-attachments/assets/ed3d7dd7-d4a6-4343-839b-fb4e13085b90" />
-
-
-
-
-
-
+[Dashboard Preview](dashboard_preview.png)
