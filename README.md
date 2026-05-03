@@ -18,7 +18,7 @@ Interactive Visuals: Used Gauge Charts for target tracking and Slicers for magaz
 ⏱️ Efficiency Gain: Automated the workflow, saving 5–10 hours per week of manual tracking.
 🔍 Transparency: Real-time visibility into "Draft Pending" vs "PDF Approved" status led to faster client follow-ups and better coordination.
 
-
+![Dashboard](https://github.com)
 
 
 
